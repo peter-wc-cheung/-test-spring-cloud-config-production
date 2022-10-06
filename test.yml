@@ -1,3 +1,4 @@
 foo: application name test in production
 my:
   prop: application name test in production
+  test: I will be shown only on test-production
